@@ -27,6 +27,7 @@
 #### 💼 **Stonewain Systems Inc** – Software Developer Intern (May 2021 - Aug 2021) 
 - 🔹Developed and optimized AutoBot scripts for UI testing, enhancing automation to validate the financial software.
 
+---
 
 ### 🛠️ Languages and Tools I Use  
 <p align="left">
