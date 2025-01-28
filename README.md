@@ -1,9 +1,7 @@
 # 👋 Hi there, I'm Uday!
 
 I'm a recent Computer Engineering graduate from the University of Guelph. 🎓  
-I'm passionate about building software solutions and exploring new technologies. 🚀  
-
-Currently, I'm working on my own webpage and diving deeper into full-stack development. 🛠️  
+I love building software solutions. 🛠️
 
 ---
 
@@ -65,7 +63,7 @@ I've had the opportunity to work on some exciting projects and gain hands-on exp
 ---
 
 ### 🌍 Where I Am  
-📍 Right now, I'm in **India**, but I'll be back in **Canada** soon. 🇮🇳 → 🇨🇦  
+📍 Right now, I'm in **Amristsar, India**, but I'll be back in **Toronto, Ontario** Feb 14. 🇮🇳 → 🇨🇦  
 
 ---
 
