@@ -1,4 +1,4 @@
-# Hello World, I'm Uday! a recent Computer Engineering graduate
+# 🙋‍♂️ Hello World, I'm Uday!  a recent Computer Engineering graduate
 
 ---
 
