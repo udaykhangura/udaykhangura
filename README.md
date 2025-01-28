@@ -4,13 +4,13 @@
 
 ### 🚀 What I'm Up To
 - 🌐 **Building my own webpage** to showcase my projects and skills.  
-- 👨‍🎓 **Graduated in Winter Dec 2024** currently seeking a role 
+- 👨‍🎓 **Graduated in Dec 2024** currently seeking a role 
 - 💻 **Experimenting with new tools and frameworks** to expand my technical expertise.  
 
 ---
 
 ### 👨‍💻 Professional Journey  
-I've had the opportunity to work on some exciting projects and gain hands-on experience during my internships:  
+I've had the opportunity to work on some exciting projects and gain hands-on experience:  
 
 #### 💼 **@ [John F. Wood Centre](https://www.uoguelph.ca/wood-centre/)** – MakerSpace Assistant (Sept 2023 - Dec 2024) 
 #### 💼 **@ [EquiLend](https://equilend.com/)** – Software Developer Intern (Jul 2024 - Aug 2024)  
