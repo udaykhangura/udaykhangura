@@ -12,7 +12,7 @@
 ### 👨‍💻 Professional Journey  
 - 🔹I've had the opportunity to work on some exciting projects and gain hands-on experience during my internships:  
 
-#### 💼 **John F. Wood Centre – MakerSpace Assistant** (Sept 2023 - Dec 2024)  
+#### 💼 **John F. Wood Centre – MakerSpace Assistant** (Sept 2023 - Dec 2024) @[University of Guelph] (https://www.uoguelph.ca/)
 - 🔹Provided hands-on technical support and led student workshops in utilizing MakerSpace tools for prototyping and innovation.
 
 #### 💼 **EquiLend** – Software Developer Intern (Jul 2024 - Aug 2024)  
