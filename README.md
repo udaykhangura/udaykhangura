@@ -9,10 +9,29 @@ Currently, I'm working on my own webpage and diving deeper into full-stack devel
 
 ### 🚀 What I'm Up To
 - 🌐 **Building my own webpage** to showcase my projects and skills.  
-- 🚗 **Exploring Ontario** in my 1988 CRX – it's my favorite way to unwind and discover new places.  
+- 🚗 **Exploring Ontario** in my Old Honda – it's my favorite way to unwind and discover new places.  
 - 💻 **Experimenting with new tools and frameworks** to expand my technical expertise.  
 
 ---
+
+### 👨‍💻 Professional Journey  
+I've had the opportunity to work on some exciting projects and gain hands-on experience during my internships:  
+
+#### 💼 **John F. Wood Centre – MakerSpace Assistant** (Sept 2023 - Dec 2024)  
+Provided hands-on technical support and led student workshops in utilizing MakerSpace tools for prototyping and innovation.
+
+#### 💼 **EquiLend** – Software Developer Intern (Jul 2024 - Aug 2024)  
+Created reusable software testing processes using JUnit and explored testing frameworks like utPLSQL and Oracle Unit Testing.
+
+#### 💼 **SS&C International Financial Data Services** – Technical Analyst Intern (Jan 2023 - Aug 2023) 
+Automated IT operations using Python and Bash, managed server access, and improved system reliability in a financial services environment.
+
+#### 💼 **Cushman and Wakefield - Client Accountant Intern ** (May 2022 - Dec 2022)
+Developed automation scripts to elimate manual workload for financial reporting, data reconciliation, and client invoicing.
+
+#### 💼 **Stonewain Systems Inc** – Software Developer Intern (May 2021 - Aug 2021) 
+Developed and optimized AutoBot scripts for UI testing, enhancing automation to validate the financial software.
+
 
 ### 🛠️ Languages and Tools I Use  
 <p align="left">
@@ -43,12 +62,6 @@ Currently, I'm working on my own webpage and diving deeper into full-stack devel
   <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
   <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a>
 </p>
-
----
-
-### 🚗 My 1988 CRX  
-I love taking my 1988 CRX out for drives and exploring the scenic routes around Ontario. It's a classic car that keeps me connected to both engineering and adventure.  
-
 ---
 
 ### 🌍 Where I Am  
@@ -57,7 +70,6 @@ I love taking my 1988 CRX out for drives and exploring the scenic routes around 
 ---
 
 ### 💬 Let's Connect!  
-I'm always open to chatting about tech, cars, or anything else. Feel free to reach out!  
 
 <p align="left">
   <a target="_blank" href="https://www.linkedin.com/in/udaykhangura"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
