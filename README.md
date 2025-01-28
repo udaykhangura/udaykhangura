@@ -1,7 +1,4 @@
-# 👋 Hi there, I'm Uday!
-
-I'm a recent Computer Engineering graduate from the University of Guelph. 🎓  
-I love building software solutions. 🛠️
+# Hello World, I'm Uday! a recent Computer Engineering graduate
 
 ---
 
