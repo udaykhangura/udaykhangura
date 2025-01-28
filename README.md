@@ -12,19 +12,19 @@
 ### 👨‍💻 Professional Journey  
 - 🔹I've had the opportunity to work on some exciting projects and gain hands-on experience during my internships:  
 
-#### 💼 **@ [John F. Wood Centre](https://www.uoguelph.ca/wood-centre/) – MakerSpace Assistant** (Sept 2023 - Dec 2024) @ [University of Guelph](https://www.uoguelph.ca/)
+#### 💼 **@ [John F. Wood Centre](https://www.uoguelph.ca/wood-centre/)** – MakerSpace Assistant (Sept 2023 - Dec 2024) 
 - 🔹Provided hands-on technical support and led student workshops in utilizing MakerSpace tools for prototyping and innovation.
 
-#### 💼 **EquiLend** – Software Developer Intern (Jul 2024 - Aug 2024)  
+#### 💼 **@ [EquiLend](https://equilend.com/)** – Software Developer Intern (Jul 2024 - Aug 2024)  
 - 🔹Created reusable software testing processes using JUnit and explored testing frameworks like utPLSQL and Oracle Unit Testing.
 
-#### 💼 **SS&C International Financial Data Services** – Technical Analyst Intern (Jan 2023 - Aug 2023) 
+#### 💼 **@ [SS&C International Financial Data Services](https://www.ssctech.com/)** – Technical Analyst Intern (Jan 2023 - Aug 2023) 
 - 🔹Automated IT operations using Python and Bash, managed server access, and improved system reliability in a financial services environment.
 
-#### 💼 **Cushman and Wakefield** - Client Accountant Intern  (May 2022 - Dec 2022)
+#### 💼 **@ [Cushman and Wakefield](https://www.cushmanwakefield.com/en)** - Client Accountant Intern  (May 2022 - Dec 2022)
 - 🔹Developed automation scripts to elimate manual workload for financial reporting, data reconciliation, and client invoicing.
 
-#### 💼 **Stonewain Systems Inc** – Software Developer Intern (May 2021 - Aug 2021) 
+#### 💼 **@ [Stonewain Systems Inc](https://stonewain.com/)** – Software Developer Intern (May 2021 - Aug 2021) 
 - 🔹Developed and optimized AutoBot scripts for UI testing, enhancing automation to validate the financial software.
 
 ---
